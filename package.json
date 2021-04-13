@@ -1,0 +1,15 @@
+{
+  "name": "dbpractice",
+  "version": "1.0.0",
+  "description": "Creating, populating and deletion of tables in MySQL 8.0  Database",
+  "main": "arrowFXN.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sydney Ekpo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  }
+}
