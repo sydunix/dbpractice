@@ -1,7 +1,7 @@
-// we use mysql2 library to request connection pool from postgres database
+// we use mysql2 library to request connection pool from MySQL database
 let mysql = require('mysql2');
 
-// we connect to pg using pool we requested
+// we connect to MySQL using pool we requested
 let con = mysql.createConnection({
   host: "localhost",
   user: "raus",
